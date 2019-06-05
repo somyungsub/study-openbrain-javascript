@@ -1,42 +1,15 @@
 # 학습 목록
-- JS
-- JS 디자인패턴 
-- Vue.js
-- Node.js
-- Node.js 디자인패턴
+- [JS](contents/js.md)
+- [JS 디자인패턴](contents/js.design.md)
+- [Vue.js](contents/vue.md)
+- [Node.js](contents/node.md)
+- [Node.js 디자인패턴](contents/node.design.md)
 
 ## 폴더 구조
 ```
 이니셜 디렉토리
    -> 주제 디렉토리
-      -> 순서_단원명.md   
+      -> 순서.단원명.md   
       
-ex) sms/js/01_타입.md
+ex) sms/js/01.타입.md
 ```
-
-
-## JS
-You don't know JS 번역본 시리즈 학습
-- [You Don't Know JS 타입과문법, 스코프와클로저](http://www.yes24.com/Product/Goods/43219481?scode=029)
-- [You Don't Know JS this와 객체 프로토타입, 비동기와 성능](http://www.yes24.com/Product/Goods/44132601?scode=029)
-- 기간 : 1개월 / 매일 25 페이지 씩 학습
-
-### JS스터디 방식
-1. 각자 개인 학습
-2. 학습내용 개인정리
-   - 정리후 GitHub에 Commit
-   - 정리는 최대한 책내용 보지 않고 머릿속에 있는 내용을 정리할 것
-3. 예제 코딩 해보기
-   - 간단히 중요하다 생각되는 예제는 코딩해보고 테스트
-4. 매주 각자 단원별 발표준비
-   - 발표시 머릿속에 있는 내용을 최대한 끌어낼 수 있도록 할 것
-   - 발표 자료 준비하지 말것
-   - 머릿속에 있는 내용을 알려준다는 마인드로
-5. 발표 내용
-   - 핵심내용
-   - 중요사항
-   - 청취자가 알았으면 하는 내용 되짚기
-   - 질문하기 및 토론
-
-### 스터디 목차
-1. 
