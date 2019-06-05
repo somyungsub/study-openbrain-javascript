@@ -5,6 +5,12 @@
 - Node.js
 - Node.js 디자인패턴
 
+## 폴더 구조
+이니셜 디렉토리
+   - 주제 디렉토리
+      - 순서_단원명.md 
+ex) sms/js/01_타입.md
+
 ## JS
 You don't know JS 번역본 시리즈 학습
 - [You Don't Know JS 타입과문법, 스코프와클로저](http://www.yes24.com/Product/Goods/43219481?scode=029)
