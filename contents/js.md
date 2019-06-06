@@ -6,6 +6,8 @@ You don't know JS 번역본 시리즈 학습
 - [You Don't Know JS 타입과문법, 스코프와클로저](http://www.yes24.com/Product/Goods/43219481?scode=029)
 - [You Don't Know JS this와 객체 프로토타입, 비동기와 성능](http://www.yes24.com/Product/Goods/44132601?scode=029)
 - 기간 : 1개월 / 매일 25 페이지 씩 학습
+- [1권 오탈자](http://www.hanbit.co.kr/store/books/look.php?p_code=B8227329776)
+- [2권 오탈자](http://www.hanbit.co.kr/store/books/look.php?p_code=B7156943021)
 
 ## JS스터디 방식
 1. 각자 개인 학습
