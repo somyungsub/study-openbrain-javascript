@@ -7,23 +7,23 @@
 
 - [GitHub 소스](https://github.com/stepanowon/contactsvc)
 
-![연락처 서비스](img/10-1.jpg)
+![연락처 서비스](./img/10-1.jpg)
 
-![연락처 서비스 API 목록](img/10-2.jpg)
+![연락처 서비스 API 목록](./img/10-2.jpg)
 
-![axios 기능 테스트](img/10-3.jpg)
+![axios 기능 테스트](./img/10-3.jpg)
 
-![axios npm install](img/10-4.jpg)
+![axios npm install](./img/10-4.jpg)
 
 ### HTTP 프록시 설정
 
 - SOP
 
-![SOP 보안 정책](img/10-5.jpg)
+![SOP 보안 정책](./img/10-5.jpg)
 
 - 컨슈머 서버 프록시
 
-![컨슈머 서버 프록시](img/10-6.jpg)
+![컨슈머 서버 프록시](./img/10-6.jpg)
 
 - Vue.js webpack 템플릿에서 컨슈머 서버 프록시 기능을 제공.
 
@@ -205,23 +205,23 @@ export default {
 
 ```
 
-![소스 실행 페이지](img/10-7.jpg)
+![소스 실행 페이지](./img/10-7.jpg)
 
-![콘솔 캡쳐](img/10-8.jpg)
+![콘솔 캡쳐](./img/10-8.jpg)
 
-![불러온 데이터](img/10-9.jpg)
+![불러온 데이터](./img/10-9.jpg)
 
-![data이외의 속성](img/10-10.jpg)
+![data이외의 속성](./img/10-10.jpg)
 
-![속성 값 캡쳐](img/10-11.jpg)
+![속성 값 캡쳐](./img/10-11.jpg)
 
-![연락처 추가](img/10-12.jpg)
+![연락처 추가](./img/10-12.jpg)
 
-![파일 변경](img/10-13.jpg)
+![파일 변경](./img/10-13.jpg)
 
-![데이터 추가 캡쳐](img/10-14.jpg)
+![데이터 추가 캡쳐](./img/10-14.jpg)
 
-![파일 확인 캡쳐](img/10-15.jpg)
+![파일 확인 캡쳐](./img/10-15.jpg)
 
 ### axios 요청과 config 옵션
 
