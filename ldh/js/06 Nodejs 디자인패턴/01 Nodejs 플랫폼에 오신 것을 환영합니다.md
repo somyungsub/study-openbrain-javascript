@@ -322,6 +322,14 @@ console.log(text);
 
 - Node.js의 비동기 특성의 핵심 패턴
 
+- 블록킹I/O
+
+- 논블록킹I/O, busy-waiting
+
+- 이벤트 디멀티플렉싱
+
+
+
 
 
 
